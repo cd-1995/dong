@@ -7,3 +7,7 @@ int main()
 {
 printf("Hello World!!!");
 }
+void say()
+{
+zzcxcvvv
+}
